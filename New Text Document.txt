@@ -1,0 +1,12 @@
+<html>
+	<body>
+		<table>
+			<tr>
+				<td><img src="about.png"></td>
+				<td><img src="">about1.png</td>
+			</tr>
+ 		</table>		
+	</body>
+</html>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp				<td><img src="images/anand.jpeg" width="400" height="400"></td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+				<td><img src="images/shashi.jpeg" width="400" height="400"></td>
